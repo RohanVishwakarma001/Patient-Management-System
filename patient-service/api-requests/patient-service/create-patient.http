@@ -1,0 +1,12 @@
+### Create a new patient entity
+POST http://localhost:3000/patients
+Content-Type: application/json
+
+{
+  "name": "Rohan Vishwakarma",
+  "email": "rohanvishwakarma8261@gmail.com",
+  "address": "Akhari Kurahua Varanasi",
+  "dateOfBirth": "20005-08-04",
+  "registeredDate": "2025-09-02"
+}
+###
